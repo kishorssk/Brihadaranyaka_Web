@@ -1,0 +1,65 @@
+/* CSS Document */
+.verse, .shloka{
+padding-bottom: 5px;
+padding-top: 5px;
+font-size:18px;
+font-weight:lighter;
+}
+
+.ch_name, .sname, .authorline, .title, .endCredits {text-align:center;
+text-shadow:#CCCCCC;
+color:red;
+font-size: 20px;
+
+}
+
+#index {
+padding-bottom: 5px;
+padding-top: 5px;
+text-align:center;	
+font-size: 22px;
+margin: 100px 0px auto 0px;
+padding: 0px 10px 50px 10px;
+}
+#index1 {
+padding-bottom: 5px;
+padding-top: 5px;
+text-align:center;	
+font-size: 22px;
+padding: 0px 10px 50px 10px;
+}
+
+img {
+margin: 100px 0px auto 0px;
+azimuth:left;
+}
+
+.header_top {
+  width: 100%;
+  clear: both;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 20px #CCC;
+  z-index: 1000;
+  text-align:center;
+  font-size:36px;
+  position:fixed;
+ 	padding-top: 15px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+	color:#BB0000;
+ }
+.glyphicon glyphicon-home{
+float:left;
+}
+.col-xs-1{
+padding-top: 15px;
+font-size:22px;
+text-align:left;
+}
+#page {
+  width: 1200px;
+  margin: 0px auto 0 auto;
+  min-height: 40em;
+  text-align: center;
+}

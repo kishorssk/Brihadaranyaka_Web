@@ -1,0 +1,7 @@
+@font-face {
+font-family:vedicaccents;
+src:url(VIJAYADV_4.TTF);
+}
+span {
+font-family:vedicaccents;
+}
